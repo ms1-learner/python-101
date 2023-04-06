@@ -1,5 +1,5 @@
-# CodingNomadsのコラボレーションストーリーのテキストを以下から取得します。
-# https://raw.githubusercontent.com/CodingNomads/collaborative-story/master/story.txt (英語)
+# コラボレーションストーリーのテキストを以下から取得します。
+# https://raw.githubusercontent.com/ms1-learner/collaborative-story/master/story.txt (英語)
 # これをスクリプトの変数に保存します。複数行の文字列を作成する場合は、
 # 三重引用符を忘れずに使用してください。
 #
